@@ -1,0 +1,14 @@
+# Packages needed to run hotel_guests_exploration.ipynb
+# Install with: pip install -r requirements.txt
+# Tested with pandas 3.0.5, plotly 7.1.0, nbformat 5.11.1, ipykernel 7.4.0
+
+# Analysis and charts
+pandas>=2.0
+plotly>=5.0
+
+# Plotly needs nbformat to display figures inside a notebook
+nbformat>=4.2
+
+# Jupyter, to open and run the notebook
+jupyterlab>=4.0
+ipykernel>=6.0
